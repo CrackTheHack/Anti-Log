@@ -4,6 +4,7 @@
 #Anti-Log version-1
 
 #This Script Is For Anti-Log
+#
 			   *!___CONFIGRATION___!*
 
 1. cd Anti-Log :- To Select Directory
