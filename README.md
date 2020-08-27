@@ -1,7 +1,7 @@
-#Author : Utkarsh Singh
-#Copyright (C) 2020
-#Website : https://crackthehack.club
-#Anti-Log version-1
+#Author :Utkarsh Singh  
+#Copyright (C) 2020  
+#Website :https://crackthehack.club  
+#Anti-Log version-1  
 
 #This Script Is For Anti-Log
 #
