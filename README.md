@@ -1,3 +1,4 @@
+This tool is based on bash script and it's work behalf on Shred 
 #Author :Utkarsh Singh  
 #Copyright (C) 2020  
 #Website :https://crackthehack.club  
