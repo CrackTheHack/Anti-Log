@@ -14,5 +14,5 @@
 3. ./Log.sh :- To Run Tool
 
 		      *!___That's It Enjoy___!*
-          
-If You Are Online ByDefault You Are Vulnerable...!!
+#         
+# If You Are Online ByDefault You Are Vulnerable...!!
